@@ -7,9 +7,10 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open index.html",
+            "name": "Open portfolio.html",
             "file": "https://prakash1221.github.io/my_portfolio/"
         }
     ]
 
 }
+
