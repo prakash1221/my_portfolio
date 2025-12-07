@@ -8,9 +8,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open portfolio.html",
-            "file": "https://prakash1221.github.io/my_portfolio/"
+            //"file": "c:\\Users\\hempr\\OneDrive\\Desktop\\.vscode\\portfolio.html"
         }
     ]
-
 }
-
